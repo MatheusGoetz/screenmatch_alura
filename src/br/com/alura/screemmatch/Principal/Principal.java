@@ -1,4 +1,4 @@
-package br.com.alura.screemmatch;
+package br.com.alura.screemmatch.Principal;
 
 import br.com.alura.screemmatch.calculos.CalculoDeTempo;
 import br.com.alura.screemmatch.calculos.FiltroRecomenda;
